@@ -1,0 +1,13 @@
+Version 1.
+This version adds the following heroes.
+
+Mordor: Sauron, Shelob, unmounted witchking.
+Isengard: Untimed balrog.
+Gondor: Isildur, untimed eagles, frodo/sam.
+Rohan: Elrond, untimed eagle.
+
+All heros auto-heal. Bugs persist: the unmounted witchking does not behave as a hero, and Elrond shoots through walls.
+Elrond has been given the bow of Legolas as well as istari light. Gandalf may be able to accept passengers when mounted.
+
+Version 2.
+This version will have limited AI for heroes, so that the computer-controlled factions will build and use the new heroes.
