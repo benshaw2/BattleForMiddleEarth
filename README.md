@@ -1,5 +1,5 @@
 # BattleForMiddleEarth
-This repository is intended for those who already have installed the Battle for Middle Earth (2004). Resources for installing the game can be found at T3A Online.
+This repository is intended for those who already have installed the Battle for Middle Earth (2004). Resources for installing the game can be found at T3A Online. I have also created a .txt file which summarizes the installation procedure from t3a.
 
 This repository contains relatively minor add-ons (mods) to the game itself. Different versions will be made available, and an attempt to streamline the installation process has been made with the inclusion of .bat files.
 
