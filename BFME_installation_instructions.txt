@@ -1,0 +1,65 @@
+BFME installation instructions
+
+Note: I did not create these installation instructions. This is just a summary of what others have done.
+
+1. Follow steps 1-4 on the following page, pasted below: 
+
+"https://forums.revora.net/topic/105190-bfme1bfme2rotwk-games-download-installation-guide/"
+
+If you don't want to deal with the cd key generator, I may be able to use mine to get a key for you. It is a pain to get it working on Windows.
+(You can follow steps 5-6, but I play using gameranger, not on t3a.)
+
+    Step 1: Download The Battle for Middle-earth ™. The original unmodified version. Links: "https://mega.nz/file/bQUhDCKA#gT92BtDHBnuMYxBVekjBUt-9Szpq2geZSw0XLiQ1yPk", "https://www.mediafire.com/file/bbjv4cjt9z0on99/tBfMe.iso/file"
+    Step 2: Open tBfMe.iso. This will mount the BfME disk to a virtual drive.
+    Step 3: Launch AutoRun.exe on the disk. Install the game. Need a cd key? (Note: some antivirus programs will flag the keygen. This is a false positive. The keygen is safe.)
+    Step 4: Install patches: Easiest way is to download our all-in-one patch 1.06 installer. (Installs 1.03, 1.05 and 1.06 and T3A:Online in your language.)
+            http://server.cnc-on...tch1.06_AIO.exe
+            All-in-one patch installer includes no-cd fix, widescreen fix and T3A:Online, please select these components.
+
+
+2. After the all-in-one patch has been installed, try to run BFME. Spoiler: it probably won't work. After it tries to start for several seconds, close out of it.
+This step may seem trivial, but it's needed so that the game creates the "C:\Users\username\AppData\Roaming\My Battle for Middle-earth Files" folder.
+
+3. Apply the following, pulled from "https://forums.revora.net/topic/108356-bfme-doesnt-startcrash-after-installation-read-this/":
+
+Step 1:  Go to your "Roaming" folder. ti finde her  "C:\Users\USERNAME\AppData\Roaming"
+Step 2: Search the BFME or BFME II folder 
+Step 3: It should be empty. Create a Maps folder.  
+Step 4: And a textfile. 
+Step 5: Put this in it.
+
+
+AllHealthBars = yes
+AlternateMouseSetup = no
+AmbientVolume = 50
+AudioLOD = High
+Brightness = 50
+FixedStaticGameLOD = UltraHigh
+FlashTutorial = 0
+HasSeenLogoMovies = yes
+HeatEffects = yes
+IdealStaticGameLOD = Low
+IsThreadedLoad = yes
+MovieVolume = 70
+MusicVolume = 70
+Resolution = 1920 1080
+SFXVolume = 70
+ScrollFactor = 51
+StaticGameLOD = UltraHigh
+TimesInGame = 25
+UnitDecals = no
+UseEAX3 = no
+VoiceVolume = 70
+ 
+ 
+
+Step 6: Save it as a options.ini
+Step 7: Make sure you have change the file type.       
+Step 8: and put it in your BFME folder 
+Step 9: Now start the game and have fun.
+
+
+4. Now download and install gameranger for multiplayer (multiplayer over LAN may work without any additional software).
+You may need to create an account.
+
+5. Feel free to use the mod on my github!
